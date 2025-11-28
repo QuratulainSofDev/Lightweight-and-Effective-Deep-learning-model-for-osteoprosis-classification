@@ -1,0 +1,2 @@
+# Lightweight-and-Effective-Deep-learning-model-for-osteoprosis-classification
+ deep learning model for Osteoporisis classfication where i perfom multiclass classiftaion achiving high accuracy and then i removed the redudent filters and feature maps from every layer of the model by using Convolutional Block Attention Module reducing the model the size of model and then comparing model accuracy before and after pruning
